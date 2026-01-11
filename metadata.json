@@ -1,0 +1,8 @@
+{
+  "name": "GeminiEngine 3D: UE5 x Scratch Hybrid",
+  "description": "A high-end 3D visual programming environment combining the graphical fidelity of Unreal Engine 5 with the intuitive block-based logic of Scratch, powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
